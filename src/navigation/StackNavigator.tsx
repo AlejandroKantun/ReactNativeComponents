@@ -12,7 +12,8 @@ import { ModalScreen } from '../screens/ModalScreen';
 import { InfiniteScrollScreen } from '../screens/InfiniteScrollScreen';
 
 const Stack = createStackNavigator();
-
+//Main stack navigation for app.
+//Every page should be declared
 export const StackNavigator =() => {
   return (
     <Stack.Navigator

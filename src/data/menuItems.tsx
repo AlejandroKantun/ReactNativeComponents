@@ -17,22 +17,22 @@ export const menuItems:MenuItem[]= [
         component:'SwitchScreen'
       },
       {
-        name: 'Alert screen ',
+        name: 'Alert Screen ',
         icon:'alert-outline',
         component:'AlertScreen'
       },
       {
-        name: 'Alert Prompt screen ',
+        name: 'Alert Prompt Screen ',
         icon:'alert-circle-outline',
         component:'AlertPromptScreen'
       },
       {
-        name: 'Input Text screen ',
+        name: 'Input Text Screen ',
         icon:'pencil-outline',
         component:'TextInputScreen'
       },
       {
-        name: 'Pull to refresh screen ',
+        name: 'Pull to Refresh Screen ',
         icon:'refresh-outline',
         component:'PullToRefresh'
       },

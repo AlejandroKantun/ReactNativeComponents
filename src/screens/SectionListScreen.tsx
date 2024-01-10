@@ -37,7 +37,7 @@ export const SectionListScreen = () => {
             ListFooterComponent={()=>
                 (
                     <View style={{marginBottom:50, marginTop:50}}>
-                        <Text style={{fontSize:30, color:'black'}}>Total de casas {casas.length}</Text>
+                        <Text style={{fontSize:30, color:'black'}}>Total comics houses: {casas.length}</Text>
                     </View>
                 )
             }

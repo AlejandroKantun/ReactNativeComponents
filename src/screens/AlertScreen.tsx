@@ -24,7 +24,7 @@ export const AlertScreen = () => {
     <View style={styles.globalMargin}>
         <HeaderTitle title='Alert'/>
         <Button 
-            title='Mostrar Alert' 
+            title='Open alert' 
             onPress={()=>showAlert()}/>
     </View>
   )

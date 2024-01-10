@@ -52,7 +52,7 @@ export const TextInputScreen = () => {
                     keyboardType='email-address'
                 />
                 <View style={stylesScreen.switchRow}>
-                    <Text style={stylesScreen.JSONText}> suscribe?</Text>
+                    <Text style={stylesScreen.JSONText}> Subscribe?</Text>
                     <CustomSwitch isOn={isSuscribed} onChange={(value)=>onChange(value,'isSuscribed')}/> 
                 </View>
                 <HeaderTitle title='Content'/>

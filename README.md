@@ -52,7 +52,7 @@ Some tehcnical features are:
 
 ### InfiniteScroll
 
-[![](https://alejandrokantun.github.io/RNComponentsImages/InfiniteScroll.gif)](https://alejandrokantun.github.io/RNComponentsImages/InfiniteScroll.mp4)
+[![](https://alejandrokantun.github.io/RNComponentsImages/MainMenu.jpg)](https://alejandrokantun.github.io/RNComponentsImages/InfiniteScroll.mp4)
 
 
 

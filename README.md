@@ -20,11 +20,11 @@ Some tehcnical features are:
 
 ### Amination2
 
-[![](https://alejandrokantun.github.io/RNComponentsImages/Amination2.gif)](https://alejandrokantun.github.io/RNComponentsImages/Amination2.mp4)
+[![](https://alejandrokantun.github.io/RNComponentsImages/MainMenu.jpg)](https://alejandrokantun.github.io/RNComponentsImages/Amination2.mp4)
 
 ### Switches
 
-[![](https://alejandrokantun.github.io/RNComponentsImages/MainMenu.jpg](https://alejandrokantun.github.io/RNComponentsImages/Switches.mp4)
+[![](https://alejandrokantun.github.io/RNComponentsImages/Switches.gif)](https://alejandrokantun.github.io/RNComponentsImages/Switches.mp4)
 
 ### Alerts 
 

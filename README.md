@@ -34,10 +34,6 @@ Some tehcnical features are:
 
 [![](https://alejandrokantun.github.io/RNComponentsImages/InputText.gif)](https://alejandrokantun.github.io/RNComponentsImages/InputText.mp4)
 
-### InputText
-
-[![](https://alejandrokantun.github.io/RNComponentsImages/InputText.gif)](https://alejandrokantun.github.io/RNComponentsImages/InputText.mp4)
-
 ### PullToRefresh
 
 [![](https://alejandrokantun.github.io/RNComponentsImages/PullToRefresh.gif)](https://alejandrokantun.github.io/RNComponentsImages/PullToRefresh.mp4)

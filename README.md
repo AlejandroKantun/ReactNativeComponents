@@ -24,7 +24,7 @@ Some tehcnical features are:
 
 ### Switches
 
-[![](https://alejandrokantun.github.io/RNComponentsImages/Switches.gif](https://alejandrokantun.github.io/RNComponentsImages/Switches.mp4)
+[![](https://alejandrokantun.github.io/RNComponentsImages/MainMenu.jpg](https://alejandrokantun.github.io/RNComponentsImages/Switches.mp4)
 
 ### Alerts 
 
@@ -52,7 +52,8 @@ Some tehcnical features are:
 
 ### InfiniteScroll
 
-[![](https://alejandrokantun.github.io/RNComponentsImages/InfiniteScroll.gif)](https://alejandrokantun.github.io/RNComponentsImages/InfiniteScroll.mp4)
+[![](https://alejandrokantun.github.io/RNComponentsImages/MainMenu.jpg)](https://alejandrokantun.github.io/RNComponentsImages/InfiniteScroll.mp4)
+
 
 
 Developed by [Alejandro Kantun](https://github.com/AlejandroKantun)

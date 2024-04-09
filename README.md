@@ -11,7 +11,7 @@
 </table>
 
 ## Tech
-Some tehcnical features are:
+Some technical features are:
 
 
 ### Amination1
